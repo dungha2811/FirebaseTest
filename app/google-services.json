@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77524341094",
+    "firebase_url": "https://test-firebase-3702b.firebaseio.com",
+    "project_id": "test-firebase-3702b",
+    "storage_bucket": "test-firebase-3702b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77524341094:android:a394fd519d7368e7",
+        "android_client_info": {
+          "package_name": "edu.fontbonne.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77524341094-1oknkv73umn62224mv7etteqa47ad2rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaoYxycvfTC9xcQT9VCWX8kmHWEHESwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77524341094-1oknkv73umn62224mv7etteqa47ad2rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
